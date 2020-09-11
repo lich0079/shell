@@ -1,0 +1,17 @@
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+[user]
+	name = lich0079
+	email = lich0079@gmail.com
+[core]
+	excludesfile = /Users/lich0079/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path =
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true

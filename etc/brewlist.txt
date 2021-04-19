@@ -94,3 +94,30 @@ xvid
 xz
 yarn
 youtube-dl
+
+
+
+
+
+
+adns			gdbm			libev			libvidstab		openldap		subversion
+aom			gettext			libevent		libvorbis		openssl@1.1		tcl-tk
+apr			giflib			libffi			libvpx			opus			telnet
+apr-util		glib			libgcrypt		libx11			p11-kit			tesseract
+autoconf		gmp			libgpg-error		libxau			p7zip			the_silver_searcher
+autoenv			gnupg			libidn2			libxcb			pcre			theora
+bdw-gc			gnutls			libksba			libxdmcp		pinentry		tig
+brotli			gobject-introspection	libmetalink		libxext			pixman			tree
+c-ares			graphite2		libogg			libxrender		pkg-config		unbound
+cairo			guile			libpng			little-cms2		pyenv			utf8proc
+cmatrix			harfbuzz		libpthread-stubs	lz4			python@3.7		webp
+cocoapods		htop			libsamplerate		lzo			python@3.9		wget
+curl			icu4c			libsndfile		m4			rav1e			x264
+dav1d			jemalloc		libsodium		mpdecimal		readline		x265
+fcrackzip		jpeg			libsoxr			ncurses			rtmpdump		xorgproto
+ffmpeg			jq			libssh2			nettle			rubberband		xvid
+flac			lame			libtasn1		nghttp2			sdl2			xz
+fontconfig		leptonica		libtiff			npth			snappy			youtube-dl
+freetype		libass			libtool			oniguruma		speex			zeromq
+frei0r			libassuan		libunistring		opencore-amr		sqlite			zimg
+fribidi			libbluray		libusb			openjpeg		srt			zstd

@@ -4,7 +4,7 @@ endTime=0
 three=3
 dur=0
 
-FILES=/Users/lich/Downloads/tmp/*
+FILES=/Users/lich/Downloads/xxx/*
 
 for f in $FILES
 do
